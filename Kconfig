@@ -1,2 +1,3 @@
 ########add this to driver/Kconfig
 source "drivers/miscdevice/Kconfig"
+source "drivers/udevdevice/Kconfig"

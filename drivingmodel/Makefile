@@ -1,0 +1,1 @@
+obj-$(CONFIG_MY_BUS) += mybus.o
